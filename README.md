@@ -1,4 +1,4 @@
-# Nombre del equipo
+# Título del trabajo
 
 Descripción breve del proyecto a realizar (2-3 frases).
 

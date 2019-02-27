@@ -4,7 +4,9 @@ Descripción breve del proyecto a realizar (2-3 frases).
 
 ## Integrantes del equipo
 
-Nombres, apellidos, y usuario GitHub de los integrantes del equipo.
+Paula Castro Jiménez.
+Sandra Hueros García.
+Guadalupe Peralta Valdés.
 
 ## Objetivos del trabajo
 

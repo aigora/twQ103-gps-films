@@ -1,6 +1,7 @@
-# Título del trabajo
-
-Descripción breve del proyecto a realizar (2-3 frases).
+# Título del trabajo: GPSFILMS
+Buscador de películas con tu cuenta personal.
+Dividido en varias categorías a gusto del consumidor.
+Información breve sobre la película escogida. 
 
 ## Integrantes del equipo
 
@@ -10,4 +11,3 @@ Guadalupe Peralta Valdés.
 
 ## Objetivos del trabajo
 
-Lista de los objetivos que se persiguen con el trabajo propuesto.

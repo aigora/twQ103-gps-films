@@ -5,9 +5,9 @@ Información breve sobre la película escogida.
 
 ## Integrantes del equipo
 
-Paula Castro Jiménez.
-Sandra Hueros García.
-Guadalupe Peralta Valdés.
+* Paula Castro Jiménez. Usuario: Paucastroj
+* Sandra Hueros García. Usuario: Sandraahg
+* Guadalupe Peralta Valdés. Usuario: Guadalupeperalta
 
 ## Objetivos del trabajo
 El consumidor puede acceder a su cuenta personal a través de su usuario y contraseña, y podrá valorar las películas vistas

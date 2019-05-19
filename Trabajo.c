@@ -40,7 +40,7 @@ void inicializarPeliculas() {
     bibliotecas[0].peliculas[2].titulo="Titanic";
     bibliotecas[0].peliculas[2].anio=1997;
     bibliotecas[0].peliculas[2].director="James Cameron";
-    bibliotecas[0].peliculas[2].sinopsis="Jack (DiCaprio), un joven artista, gana en una partida de cartas un pasaje para viajar a America en el Titanic, el transatlantico más grande y seguro jamás construido. A bordo conoce a Rose (Kate Winslet), una joven de una buena familia venida a menos que va a contraer un matrimonio de conveniencia con Cal (Billy Zane), un millonario a quien solo interesa el prestigioso apellido de su prometida. Jack y Rose se enamoran. Mientras, el transatlantico se aproxima hacia un inmenso iceberg.";
+    bibliotecas[0].peliculas[2].sinopsis="Jack (DiCaprio), un joven artista, gana en una partida de cartas un pasaje para viajar a America en el Titanic, el transatlantico mÃ¡s grande y seguro jamÃ¡s construido. A bordo conoce a Rose (Kate Winslet), una joven de una buena familia venida a menos que va a contraer un matrimonio de conveniencia con Cal (Billy Zane), un millonario a quien solo interesa el prestigioso apellido de su prometida. Jack y Rose se enamoran. Mientras, el transatlantico se aproxima hacia un inmenso iceberg.";
 
     bibliotecas[0].peliculas[3].titulo="Bohemian Rhapsody";
     bibliotecas[0].peliculas[3].anio=2018;
@@ -50,22 +50,22 @@ void inicializarPeliculas() {
     bibliotecas[0].peliculas[4].titulo="Cisne negro";
     bibliotecas[0].peliculas[4].anio=2011;
     bibliotecas[0].peliculas[4].director="Darren Aronofsky";
-    bibliotecas[0].peliculas[4].sinopsis="Una brillante bailarina que forma parte de una compañia de ballet de Nueva York, vive completamente absorbida por la danza. La presion de su controladora madre, la rivalidad con su compañera Lily (Mila Kunis) y las exigencias del severo director se iran incrementando a medida que se acerca el dia del estreno. Esta tension provoca en Nina un agotamiento nervioso y una confusion mental que la incapacitan para distinguir entre realidad y ficcion.";
+    bibliotecas[0].peliculas[4].sinopsis="Una brillante bailarina que forma parte de una compaÃ±ia de ballet de Nueva York, vive completamente absorbida por la danza. La presion de su controladora madre, la rivalidad con su compaÃ±era Lily (Mila Kunis) y las exigencias del severo director se iran incrementando a medida que se acerca el dia del estreno. Esta tension provoca en Nina un agotamiento nervioso y una confusion mental que la incapacitan para distinguir entre realidad y ficcion.";
     
     bibliotecas[0].peliculas[5].titulo="Carol";
     bibliotecas[0].peliculas[5].anio=2015;
     bibliotecas[0].peliculas[5].director="Todd Haynes";
-    bibliotecas[0].peliculas[5].sinopsis="En Nueva York de la decada de 1950, una joven trabajadora de una tienda de moda y una mujer elegante y sofisticada, que vive inmersa en un matrimonio en el que no encuentra la felicidad, entablan una amistad que dara paso a una creciente atraccion mutua para desembocar en una relación lesbica de consecuencias complicadas para las vidas de ambas.";
+    bibliotecas[0].peliculas[5].sinopsis="En Nueva York de la decada de 1950, una joven trabajadora de una tienda de moda y una mujer elegante y sofisticada, que vive inmersa en un matrimonio en el que no encuentra la felicidad, entablan una amistad que dara paso a una creciente atraccion mutua para desembocar en una relaciÃ³n lesbica de consecuencias complicadas para las vidas de ambas.";
    
     bibliotecas[0].peliculas[6].titulo="Los miserables";
     bibliotecas[0].peliculas[6].anio=2012;
     bibliotecas[0].peliculas[6].director="Tom Hooper";
-    bibliotecas[0].peliculas[6].sinopsis="Despues de 19 anios como prisionero, Jean Valjean es liberado por Javert, el oficial a cargo de la fuerza de trabajo de la prisión. Valjean viola su libertad y mas tarde usa el dinero robado para reinventarse a el mismo como alcalde y duenio de una fábrica. Javert promete llevar a Valjean de vuelta a la carcel. Ocho anios despues, Valjean se convierte en el guardian de un niño llamado Cosette despues de la muerte de su madre, pero la persecucion de Javert significa que la paz tardara en llegar.";
+    bibliotecas[0].peliculas[6].sinopsis="Despues de 19 anios como prisionero, Jean Valjean es liberado por Javert, el oficial a cargo de la fuerza de trabajo de la prisiÃ³n. Valjean viola su libertad y mas tarde usa el dinero robado para reinventarse a el mismo como alcalde y duenio de una fÃ¡brica. Javert promete llevar a Valjean de vuelta a la carcel. Ocho anios despues, Valjean se convierte en el guardian de un niÃ±o llamado Cosette despues de la muerte de su madre, pero la persecucion de Javert significa que la paz tardara en llegar.";
     
-    bibliotecas[0].peliculas[7].titulo="El niño con el pijama de rayas";
+    bibliotecas[0].peliculas[7].titulo="El niÃ±o con el pijama de rayas";
     bibliotecas[0].peliculas[7].anio=2008;
     bibliotecas[0].peliculas[7].director="Mark Hermas";
-    bibliotecas[0].peliculas[7].sinopsis="Durante la Segunda Guerra Mundial, el pequenio hijo de un comandante de un campo de concentracion desarrolla una amistad prohibida con un ninio judio de 8 años.";
+    bibliotecas[0].peliculas[7].sinopsis="Durante la Segunda Guerra Mundial, el pequenio hijo de un comandante de un campo de concentracion desarrolla una amistad prohibida con un ninio judio de 8 aÃ±os.";
     
 	//Categoria 2 
 	bibliotecas[1].peliculas[0].titulo="Avatar";
@@ -77,7 +77,7 @@ void inicializarPeliculas() {
     bibliotecas[1].peliculas[1].titulo="El senior de los anillos";
     bibliotecas[1].peliculas[1].anio=2001;
     bibliotecas[1].peliculas[1].director="Peter Jackson";
-    bibliotecas[1].peliculas[1].sinopsis="En la Tierra Media, el SeÒor Oscuro Sauron ordeno a los Elfos que forjaran los Grandes Anillos de Poder. Tres para los reyes Elfos, siete para los SeÒores Enanos, y nueve para los Hombres Mortales. Pero Sauron tambien forjo, en secreto, el Anillo Unico, que tiene el poder de esclavizar toda la Tierra Media. Con la ayuda de sus amigos y de valientes aliados, el joven hobbit Frodo emprende un peligroso viaje con la mision de destruir el Anillo Unico. Pero el malvado Sauron ordena la persecuciÛn del grupo, compuesto por Frodo y sus leales amigos hobbits, un mago, un hombre, un elfo y un enano. La misiÛn es casi suicida pero necesaria, pues si Sauron con su ejercito de orcos lograra recuperar el Anillo, seria el final de la Tierra Media.";
+    bibliotecas[1].peliculas[1].sinopsis="En la Tierra Media, el SeÃ’or Oscuro Sauron ordeno a los Elfos que forjaran los Grandes Anillos de Poder. Tres para los reyes Elfos, siete para los SeÃ’ores Enanos, y nueve para los Hombres Mortales. Pero Sauron tambien forjo, en secreto, el Anillo Unico, que tiene el poder de esclavizar toda la Tierra Media. Con la ayuda de sus amigos y de valientes aliados, el joven hobbit Frodo emprende un peligroso viaje con la mision de destruir el Anillo Unico. Pero el malvado Sauron ordena la persecuciÃ›n del grupo, compuesto por Frodo y sus leales amigos hobbits, un mago, un hombre, un elfo y un enano. La misiÃ›n es casi suicida pero necesaria, pues si Sauron con su ejercito de orcos lograra recuperar el Anillo, seria el final de la Tierra Media.";
     
 
     bibliotecas[1].peliculas[2].titulo="Piratas del caribe";
@@ -95,7 +95,7 @@ void inicializarPeliculas() {
     bibliotecas[1].peliculas[4].titulo="La vida de Pi";
     bibliotecas[1].peliculas[4].anio=2012;
     bibliotecas[1].peliculas[4].director="Ang Lee ";
-    bibliotecas[1].peliculas[4].sinopsis="Despues de decidir vender su zoologico en la India y mudarse a Canada, Santosh y Gita Patel viajan en un barco carguero con sus hijos y algunos animales. Una terrible tormenta hunde el barco, dejando a Pi, el hijo de los Patel, como el unico sobreviviente humano. Sin embargo, Pi no esta solo; un temible tigre de bengala lo acompaña en el bote salvavidas. Los dias se vuelven semanas y meses, y Pi y el tigre deben aprender a confiar el uno en el otro para sobrevivir.";
+    bibliotecas[1].peliculas[4].sinopsis="Despues de decidir vender su zoologico en la India y mudarse a Canada, Santosh y Gita Patel viajan en un barco carguero con sus hijos y algunos animales. Una terrible tormenta hunde el barco, dejando a Pi, el hijo de los Patel, como el unico sobreviviente humano. Sin embargo, Pi no esta solo; un temible tigre de bengala lo acompaÃ±a en el bote salvavidas. Los dias se vuelven semanas y meses, y Pi y el tigre deben aprender a confiar el uno en el otro para sobrevivir.";
     
 
     bibliotecas[1].peliculas[5].titulo="Capitana Marvel";
@@ -171,7 +171,7 @@ void inicializarPeliculas() {
     bibliotecas[0].peliculas[8].titulo="Sinister";
     bibliotecas[0].peliculas[8].anio=2012;
     bibliotecas[0].peliculas[8].director="Scott Derrickson";
-    bibliotecas[0].peliculas[8].sinopsis="Ellison Oswald, escritor de historias criminales, esta en una mala racha; no ha tenido un exito en mas de 10 aÒos y esta desesperado. Cuando descubre una pelicula que muestra las muertes de una familia, el promete resolver el misterio. Ellison y su familia se mudan a la casa de las victimas y se pone a trabajar. Sin embargo, cuando unas imagenes antiguas y otras pistas apuntan a una presencia sobrenatural. Ellison descubre que vivir en esa casa podria costarles la vida.";
+    bibliotecas[0].peliculas[8].sinopsis="Ellison Oswald, escritor de historias criminales, esta en una mala racha; no ha tenido un exito en mas de 10 aÃ’os y esta desesperado. Cuando descubre una pelicula que muestra las muertes de una familia, el promete resolver el misterio. Ellison y su familia se mudan a la casa de las victimas y se pone a trabajar. Sin embargo, cuando unas imagenes antiguas y otras pistas apuntan a una presencia sobrenatural. Ellison descubre que vivir en esa casa podria costarles la vida.";
 
 //Categoria 4
     bibliotecas[3].peliculas[0].titulo="Toy Story 1";
@@ -195,7 +195,7 @@ void inicializarPeliculas() {
     bibliotecas[3].peliculas[3].titulo="Dumbo";
     bibliotecas[3].peliculas[3].anio=2019;
     bibliotecas[3].peliculas[3].director=" Tim Burton";
-    bibliotecas[3].peliculas[3].sinopsis="Holt Farrier cuenta con la ayuda de sus hijos Milly y Joe para cuidar a un elefante recien nacido cuyas orejas gigantes le hacer ser el hazmerreir en un Circo que no pasa por su mejor momento. La familia circense de Holt incluye ademas a la seÒorita Atlantis, Rongo, Pramesh Singh y su sobrino, La grandiosa Catherine y el magnifico Ivan. Max Medici dueÒo del circo, se decepciona al saber sobre las enormes orejas del pequeÒo paquidermo hasta que descubre que es capaz de volar, llevando al circo de regreso a la prosperidad.";
+    bibliotecas[3].peliculas[3].sinopsis="Holt Farrier cuenta con la ayuda de sus hijos Milly y Joe para cuidar a un elefante recien nacido cuyas orejas gigantes le hacer ser el hazmerreir en un Circo que no pasa por su mejor momento. La familia circense de Holt incluye ademas a la seÃ’orita Atlantis, Rongo, Pramesh Singh y su sobrino, La grandiosa Catherine y el magnifico Ivan. Max Medici dueÃ’o del circo, se decepciona al saber sobre las enormes orejas del pequeÃ’o paquidermo hasta que descubre que es capaz de volar, llevando al circo de regreso a la prosperidad.";
     
 
     bibliotecas[3].peliculas[4].titulo="Mulan";
@@ -224,7 +224,7 @@ void inicializarPeliculas() {
     bibliotecas[3].peliculas[8].titulo="El viaje de Chihiro";
     bibliotecas[3].peliculas[8].anio=2001;
     bibliotecas[3].peliculas[8].director="Hayao Miyazaki, Kirk Wise";
-    bibliotecas[3].peliculas[8].sinopsis="Perdida en el bosque, una niña de 10 años conoce animales, fantasmas y criaturas extraÒas.";
+    bibliotecas[3].peliculas[8].sinopsis="Perdida en el bosque, una niÃ±a de 10 aÃ±os conoce animales, fantasmas y criaturas extraÃ’as.";
 
 //Categoria 5
     bibliotecas[4].peliculas[0].titulo="Interestellar";
@@ -236,13 +236,13 @@ void inicializarPeliculas() {
     bibliotecas[4].peliculas[1].titulo="E.T el extraterrestre";
     bibliotecas[4].peliculas[1].anio=1982;
     bibliotecas[4].peliculas[1].director="Steven Spielberg";
-    bibliotecas[4].peliculas[1].sinopsis=" E.T. es un travieso extraterrestre que fue abandonado en la Tierra. Completamente solo y desorientado, conocera a Elliot, un chico que se convertira pronto en su amigo y protector. Elliot tratara de ocultar en la medida de lo posible a E.T., puesto que la policÌa y los cientÌficos trataran de capturarlo para hacerle dolorosas pruebas.Elliot y su pandilla tendran como objetivo devolver a E.T. a su verdadero hogar.";
+    bibliotecas[4].peliculas[1].sinopsis=" E.T. es un travieso extraterrestre que fue abandonado en la Tierra. Completamente solo y desorientado, conocera a Elliot, un chico que se convertira pronto en su amigo y protector. Elliot tratara de ocultar en la medida de lo posible a E.T., puesto que la policÃŒa y los cientÃŒficos trataran de capturarlo para hacerle dolorosas pruebas.Elliot y su pandilla tendran como objetivo devolver a E.T. a su verdadero hogar.";
     
 
     bibliotecas[4].peliculas[2].titulo="Star Wars 1";
     bibliotecas[4].peliculas[2].anio=1999;
     bibliotecas[4].peliculas[2].director="George Lucas";
-    bibliotecas[4].peliculas[2].sinopsis="Obi-Wan Kenobi es un joven aprendiz caballero Jedi bajo la tutela de Qui-Gon Jinn; Anakin Skywalker, quien despues sera padre de Luke Skywalker y se convertira en Darth Vader, solamente es un chico de 9 aÒos. Cuando la Federacion de Comercio corta todas las rutas al planeta Naboo, Qui-Gon y Obi-Wan son asignados para solucionar el problema.";
+    bibliotecas[4].peliculas[2].sinopsis="Obi-Wan Kenobi es un joven aprendiz caballero Jedi bajo la tutela de Qui-Gon Jinn; Anakin Skywalker, quien despues sera padre de Luke Skywalker y se convertira en Darth Vader, solamente es un chico de 9 aÃ’os. Cuando la Federacion de Comercio corta todas las rutas al planeta Naboo, Qui-Gon y Obi-Wan son asignados para solucionar el problema.";
     
 
     bibliotecas[4].peliculas[3].titulo="Ex Machina";
@@ -254,7 +254,7 @@ void inicializarPeliculas() {
     bibliotecas[4].peliculas[4].titulo="Moon";
     bibliotecas[4].peliculas[4].anio=2009;
     bibliotecas[4].peliculas[4].director="Duncan Jones";
-    bibliotecas[4].peliculas[4].sinopsis="El periodo de tres aÒos del astronauta Sam Bell en una mina lunar finalmente esta llegando a su fin, y el espera reunirse con su esposa y su joven hija. Inesperadamente, la salud de Sam empeora. El sufre dolores de cabeza y alucinaciones, y casi tiene un accidente fatal.";
+    bibliotecas[4].peliculas[4].sinopsis="El periodo de tres aÃ’os del astronauta Sam Bell en una mina lunar finalmente esta llegando a su fin, y el espera reunirse con su esposa y su joven hija. Inesperadamente, la salud de Sam empeora. El sufre dolores de cabeza y alucinaciones, y casi tiene un accidente fatal.";
     
 
     bibliotecas[4].peliculas[5].titulo="Gravity";
@@ -327,14 +327,14 @@ do{
 	    //Mostrar pelicula escogida
 	    printf("\n\t\t");
 	    cout << bibliotecas[genero-1].peliculas[opcion].titulo << endl;
-	    cout << "Año de publicación: " <<bibliotecas[genero-1].peliculas[opcion].anio << endl;
+	    cout << "AÃ±o de publicaciÃ³n: " <<bibliotecas[genero-1].peliculas[opcion].anio << endl;
 	    cout << "Director: " << bibliotecas[genero-1].peliculas[opcion].director << endl;
 	    cout << "Sinopsis: " << bibliotecas[genero-1].peliculas[opcion].sinopsis << endl;
 	    printf ("\nQue desea hacer ahora?\n");
             printf("\n\t1.-Descargar pelicula\n\t0.- Salir al menu principal\nOpcion deseada: ");
             scanf("%d",&opcion);
             if(opcion==1){
-                printf("\Pelicula descargada correctamente, puede disfrutarla tantas veces como quiera. (El cargo ha sido realizado en su tarjeta) ");
+                printf("\nPelicula descargada correctamente, puede disfrutarla tantas veces como quiera. (El cargo ha sido realizado en su tarjeta) ");
                 scanf("%d",&opcion);
             }
 	}
